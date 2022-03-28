@@ -2,4 +2,4 @@
 #### Find the Simple interest for the given Principle, Time and Rate of interest
 
 # Solution :
-<img src='images' title='Simple Interest'>
+<img src='simple-interest.png' title='Simple Interest'>
